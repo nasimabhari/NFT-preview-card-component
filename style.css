@@ -21,6 +21,9 @@ body {
   margin-right: auto;
   padding: 10px;
 }
+#eth-img:hover {
+  width: 90%;
+}
 h3 {
   color: hsl(0, 0%, 100%);
   margin-left: 5px;
