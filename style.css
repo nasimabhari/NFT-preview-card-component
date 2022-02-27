@@ -14,7 +14,7 @@ body {
   transform: translate(-50%, -50%);
 }
 #eth-img {
-  width: 85%;
+  width: 84%;
   border-radius: 1em;
   display: block;
   margin-left: auto;
@@ -22,7 +22,7 @@ body {
   padding: 10px;
 }
 #eth-img:hover {
-  width: 90%;
+  width: 86%;
 }
 h3 {
   color: hsl(0, 0%, 100%);
